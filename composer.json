@@ -1,5 +1,5 @@
 {
-    "name": "carlos-meneses/laravel-mpdf",
+    "name": "mudasserzahid/laravel-mpdf",
     "description": "Laravel Mpdf: Using Mpdf in Laravel 5 for generate Pdfs.",
     "keywords": ["mpdf", "pdf", "laravel"],
     "license": "MIT",
