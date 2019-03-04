@@ -1,6 +1,6 @@
 <?php
 
-namespace Meneses\LaravelMpdf\Facades;
+namespace Mudassar\LaravelMpdf\Facades;
 
 use Illuminate\Support\Facades\Facade as BaseFacade;
 
