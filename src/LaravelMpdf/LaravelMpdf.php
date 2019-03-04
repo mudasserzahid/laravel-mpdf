@@ -1,6 +1,6 @@
 <?php
 
-namespace Whitehats\LaravelMpdf;
+namespace Mudassar\LaravelMpdf;
 
 use Config;
 use Mpdf\Mpdf;
