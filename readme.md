@@ -1,11 +1,10 @@
 	
-# Laravel Mpdf: Using Mpdf in Laravel/Lumen 5.6 for generate Pdfs
+# Laravel/Lumen Mpdf: Using Mpdf in  5.6 for generate Pdfs
 
-> Easily generate PDF documents from HTML right inside of Laravel using this mpdf wrapper.
 
 ## Important Note
 
-> Currently supported mpdf version `7.1` and PHP version >= 7.0
+> Please be advised specified library was only fix to make functional it with Lumen 5.6 to `carlos-meneses/laravel-mpdf`
 
 ## Installation
 
