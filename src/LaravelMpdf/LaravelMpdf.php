@@ -2,7 +2,7 @@
 
 namespace Mudassar\LaravelMpdf;
 
-use Config;
+use Illuminate\Support\Facades\Config;
 use Mpdf\Mpdf;
 
 /**
